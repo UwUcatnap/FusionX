@@ -1,0 +1,12 @@
+C:\Users\jacob\source\repos\FusionX\FusionX\bin\Debug\FusionX.exe.config
+C:\Users\jacob\source\repos\FusionX\FusionX\bin\Debug\FusionX.exe
+C:\Users\jacob\source\repos\FusionX\FusionX\bin\Debug\FusionX.pdb
+C:\Users\jacob\source\repos\FusionX\FusionX\obj\Debug\FusionX.csproj.AssemblyReference.cache
+C:\Users\jacob\source\repos\FusionX\FusionX\obj\Debug\FusionX.Form1.resources
+C:\Users\jacob\source\repos\FusionX\FusionX\obj\Debug\FusionX.Properties.Resources.resources
+C:\Users\jacob\source\repos\FusionX\FusionX\obj\Debug\FusionX.csproj.GenerateResource.cache
+C:\Users\jacob\source\repos\FusionX\FusionX\obj\Debug\FusionX.csproj.CoreCompileInputs.cache
+C:\Users\jacob\source\repos\FusionX\FusionX\obj\Debug\FusionX.exe
+C:\Users\jacob\source\repos\FusionX\FusionX\obj\Debug\FusionX.pdb
+C:\Users\jacob\source\repos\FusionX\FusionX\bin\Debug\FastColoredTextBox.dll
+C:\Users\jacob\source\repos\FusionX\FusionX\obj\Debug\FusionX.csproj.Up2Date
